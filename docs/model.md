@@ -26,7 +26,7 @@
 
 * StageId
 * Name
-* Location - need another name as confusing - this is the location within the venue. ie second floor room 202
+* Location - need another name as confusing - this is the location within the venue. for example second floor room 202
 * VenueId
 
 ## Event
